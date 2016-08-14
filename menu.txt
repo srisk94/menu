@@ -1,0 +1,18 @@
+MENU:
+    Menu is the commonly used UI for in many applications.By using menus we can give best user experience for the user.
+we can provide options to redirect to another page and we can provide information about options given in that page 
+by using menu API.
+
+
+OPTIONS MENU:
+   It is the primaru collection of menu items for the activity.You can use this where options have global impact on 
+applications such as compose mail,searching and settings.
+
+
+CONTEXT MENU:
+   It is a floating menu that appears when we long click on an element.that menu contains options that can effect the 
+selected content or contentframe.
+
+ What is the alternative of ActionBarActivity as its deprecated:::
+
+since the version of 22.1.0 the class ActionBarActivity depriciated.In alternate we have to use AppCompactActivity
